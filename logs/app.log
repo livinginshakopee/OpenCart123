@@ -1,0 +1,46 @@
+14:51:33.443 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+14:51:34.865 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+14:51:34.872 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+14:51:36.594 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+14:51:36.656 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+14:51:43.000 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+14:52:41.141 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+14:52:41.989 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+14:52:41.993 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+14:52:43.476 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+14:52:43.531 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+14:52:49.244 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+14:52:49.871 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+14:52:49.874 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+14:52:51.156 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+14:52:51.198 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+14:59:54.598 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+14:59:55.523 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+14:59:55.526 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+14:59:57.499 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+14:59:57.560 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+15:00:05.000 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+15:00:05.957 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+15:00:05.963 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+15:00:07.747 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+15:00:07.805 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+16:16:18.776 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+16:16:19.596 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+16:16:19.607 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+16:16:21.838 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+16:16:21.879 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+16:16:28.732 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+16:16:29.292 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+16:16:29.298 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+16:16:30.377 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+16:16:30.437 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+16:29:39.879 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+16:29:41.214 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+16:29:41.222 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+16:29:42.996 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+16:29:43.033 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+16:29:50.659 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+16:29:51.309 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+16:29:51.313 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+16:29:52.591 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+16:29:52.634 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********

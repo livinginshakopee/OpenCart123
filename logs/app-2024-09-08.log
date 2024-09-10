@@ -1,0 +1,170 @@
+13:02:32.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+13:12:55.356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+13:16:18.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+13:19:35.744 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+13:28:12.758 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+13:29:57.427 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+13:29:58.653 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+13:29:58.656 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+13:30:00.702 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+13:30:00.745 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+13:30:13.463 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+13:30:14.142 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+13:30:14.146 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+13:30:15.470 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+13:30:15.521 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+14:30:17.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:30:25.928 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+14:30:27.170 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+14:30:27.173 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+14:30:28.935 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+14:30:28.977 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+14:30:36.891 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+14:30:37.683 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+14:30:37.685 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+14:30:39.241 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+14:30:39.317 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+14:32:58.882 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:33:08.584 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+14:33:10.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+14:33:10.667 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+14:33:12.740 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+14:33:12.853 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+14:33:23.009 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+14:33:24.381 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+14:33:24.388 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+14:33:26.970 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+14:33:27.086 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+14:34:23.473 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:35:46.202 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+14:35:47.483 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+14:35:47.486 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+14:35:49.273 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+14:35:49.315 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+14:35:58.219 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+14:35:59.069 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+14:35:59.072 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+14:36:00.740 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+14:36:00.864 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+14:41:23.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:41:30.093 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+14:41:30.942 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+14:41:30.944 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+14:41:32.291 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+14:41:32.334 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+14:41:39.608 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+14:41:40.197 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+14:41:40.202 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+14:41:42.796 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+14:41:42.838 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+14:46:23.675 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\crossbrowserTesting.xml
+
+14:50:01.345 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:50:53.694 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:51:22.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:52:18.214 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:57:55.425 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:59:04.551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+14:59:12.050 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+14:59:13.206 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+14:59:13.208 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+14:59:15.340 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+14:59:15.400 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+14:59:21.489 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+15:04:05.059 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:04:05.066 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.070 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.071 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.072 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.073 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.083 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+15:04:05.101 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+15:04:05.103 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.103 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.104 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.104 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.105 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.107 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.107 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.108 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:04:05.108 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.111 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.113 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.114 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.116 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.116 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.116 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:05.116 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:05.123 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\AppData\Local\Temp\testng-eclipse-1373181737\testng-customsuite.xml
+
+15:04:05.138 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+15:04:05.389 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@58e6d4b8: 114 ms
+15:04:05.411 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2c104774: 21 ms
+15:04:05.424 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@39dcf4b0: 12 ms
+15:04:05.434 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3f28bd56: 10 ms
+15:04:05.459 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@18245eb0: 24 ms
+15:04:05.459 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7c7d3c46: 0 ms
+15:04:51.525 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+15:05:08.720 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+15:05:09.584 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+15:05:09.586 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+15:05:11.124 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+15:05:11.169 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+15:05:32.187 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+15:05:47.021 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+15:05:50.673 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+15:05:58.000 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+15:06:30.934 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
+15:08:29.047 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sragv\workspace2\OpenCart123\masterTesting.xml
+
+15:08:35.220 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Strting TC001 _AccountRegistrationTest****************
+15:08:36.092 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Clicked on MyAccount Link****************
+15:08:36.098 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Providing customer details****************
+15:08:38.108 [main] INFO  testCases.TC001_AccountRegistrationTest - ***************Validation Message****************
+15:08:38.151 [main] INFO  testCases.TC001_AccountRegistrationTest - **********************Finished TC001_AccountRegistrationTest*******************
+15:08:44.488 [main] INFO  testCases.TC002_Logintest - *****************String TC002Logintest**************
+15:08:45.369 [main] INFO  testCases.TC002_Logintest - ******************Clicked Login button*************
+15:08:45.376 [main] INFO  testCases.TC002_Logintest - *********************Going to login my Account**************
+15:08:46.610 [main] INFO  testCases.TC002_Logintest - ******************Clicking login button****************
+15:08:46.666 [main] INFO  testCases.TC002_Logintest - ************I logined my Account**********
